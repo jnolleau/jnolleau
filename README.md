@@ -9,6 +9,9 @@
 
 <br />
 
+<p align="center">
 [![jnolleau's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnolleau)](https://github.com/jnolleau/github-readme-stats)
-<br />
+</p>
+<p align="center">
 [![jnolleau's 42 stats](https://badge42.herokuapp.com/api/stats/julnolle)](https://github.com/JaeSeoKim/badge42)
+</p>
