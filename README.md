@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi Folks 👋
 #### French guy living in Orléans (1 hour in south of Paris)
-<a href="https://www.linkedin.com/in/andres-villegas-79867ab7/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+<a href="https://www.linkedin.com/in/julien-nolleau-2710a493/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
 - 🌱 I’m currently learning Computer Programming at 42 School Paris
 - 🔭 I’m currently working on last project of the 42 common core: a website for the mighty pong contest
