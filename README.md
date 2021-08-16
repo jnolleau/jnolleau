@@ -1,5 +1,6 @@
 ### Hi there 👋
-#### French guy living in Orléans (1 hour from Paris by train)
+#### French guy living in Orléans (1 hour in south of Paris)
+<a href="https://www.linkedin.com/in/andres-villegas-79867ab7/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
 - 🌱 I’m currently learning Computer Programming at 42 School Paris
 - 🔭 I’m currently working on last project of the 42 common core: a website for the mighty pong contest
@@ -11,5 +12,5 @@
 
 [![jnolleau's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnolleau)](https://github.com/jnolleau/github-readme-stats)
 [![jnolleau's 42 stats](https://badge42.herokuapp.com/api/stats/julnolle)](https://github.com/JaeSeoKim/badge42)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnolleau&theme=synthwave “Julien’ Top Languages Card”)
-<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnolleau)](https://github.com/jnolleau/github-readme-stats)
+
