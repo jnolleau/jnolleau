@@ -1,4 +1,5 @@
 ### Hi there 👋
+## French guy living in Orléans (1 hour from Paris by train)
 
 - 🌱 I’m currently learning Computer Programming at 42 School Paris
 - 🔭 I’m currently working on last project of the 42 common core: a website for the mighty pong contest
