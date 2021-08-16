@@ -1,18 +1,13 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Computer Programming at 42 School Paris
+- 🔭 I’m currently working on last project of the 42 common core: a website for the mighty pong contest
+- 👯 I’m looking to start collaborate on open source projects
+- 💬 Ask me about working on meaning projects: medical cares, ecology, technology improvement
+- ⚡ Fun fact: I like code and playing the guitar. Learning is my energy, ecology is my belief
+
+<br />
+
 [![jnolleau's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnolleau)](https://github.com/jnolleau/github-readme-stats)
+<br />
 [![jnolleau's 42 stats](https://badge42.herokuapp.com/api/stats/julnolle)](https://github.com/JaeSeoKim/badge42)
-<!--
-**jnolleau/jnolleau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
