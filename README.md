@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![jnolleau's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnolleau)](https://github.com/jnolleau/github-readme-stats)
-
+[![jnolleau's 42 stats](https://badge42.herokuapp.com/api/stats/julnolle)](https://github.com/JaeSeoKim/badge42)
 <!--
 **jnolleau/jnolleau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
