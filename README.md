@@ -1,11 +1,11 @@
-### Hi Folks 👋
+### Welcome, potential partner 👋
 <a href="https://www.linkedin.com/in/julien-nolleau-2710a493/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
-- 🌱 I’m currently learning Computer Programming at 42 School Paris
-- 🔭 I’m currently working on last project of the 42 common core: a website for the mighty pong contest
-- 👯 I’m looking to start collaborate on open source projects
-- 💬 Ask me about working on meaning projects: medical cares, ecology, technology improvement
-- ⚡ Fun fact: I like code and playing the guitar. Learning is my energy, ecology is my belief
+- 🌱 Currently learning Computer Programming at 42 School Paris
+- 🔭 Currently working on last project of the 42 common core: a website for the mighty pong contest
+- 👯 Looking to start collaborate on any project
+- 💬 Ask me about working on meaning projects like medical cares, ecology and technology improvement
+- ⚡ Like coding and playing the guitar. Learning is my energy, ecology is my belief
 
 <br />
 
