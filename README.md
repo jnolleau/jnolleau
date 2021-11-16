@@ -16,6 +16,10 @@
   <a href='https://webpack.js.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" title='Webpack' width=30/></a>
   <a href='https://www.postgresql.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title='PostgreSQL' width=30/></a>
 <p>
+  
+<p>:record_button: Plan to learn
+    <a href='https://www.python.org/doc/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title='Python' width=30/></a>
+</p>
 <p>:computer: My stack:</p>
   <a href='https://www.cprogramming.com/tutorial/c-tutorial.html?inl=nv'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title='C' width=50/></a>
   <a href='http://www.cplusplus.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title='C++' width=50/></a>
