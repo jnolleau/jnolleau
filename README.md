@@ -11,6 +11,6 @@
 
 <!-- [![jnolleau's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnolleau)](https://github.com/jnolleau/github-readme-stats)
 <br /> -->
-[![jnolleau's 42 stats](https://badge42.herokuapp.com/api/stats/julnolle)](https://github.com/JaeSeoKim/badge42)
+[![jnolleau's 42 stats](https://badge42.herokuapp.com/api/stats/julnolle)](https://42.fr/en/homepage/)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnolleau)](https://github.com/jnolleau/github-readme-stats)
