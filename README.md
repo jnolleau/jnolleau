@@ -1,5 +1,5 @@
 ### Welcome, potential partner 👋
-<a href="https://www.linkedin.com/in/julien-nolleau-2710a493/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+<a href="https://www.linkedin.com/in/julien-nolleau-2710a493/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8??style=flat&logo=linkedIn)</a>
 
 - 🌱 Currently learning Computer Programming at 42 School Paris
 - 🔭 Just finishing the 42 common core - plan to work while keeping learning at 42
