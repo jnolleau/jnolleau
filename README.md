@@ -3,7 +3,7 @@
 
 - 🌱 Currently learning Computer Programming at 42 School Paris
 - 🔭 Just finishing the 42 common core - plan to work while keeping learning at 42
-- :handshake: Looking to start collaborate on any project
+- :handshake: Looking to start collaborating on any project
 - 💬 Ask me about working on meaning projects like medical cares, ecology, technology improvement, with strong society impact
 - ⚡ Like coding and playing the guitar. Learning is my energy, ecology is my belief
 <br />
