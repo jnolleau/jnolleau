@@ -8,8 +8,9 @@
 - ⚡ Like coding and playing the guitar. Learning is my energy, ecology is my belief
 <br />
 <p>:books: Currently learning:<br />
+<a href='https://docs.gitlab.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" title='Gitlab' width=40/></a>
 <a href='https://www.jenkins.io/doc/book/getting-started/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title='Jenkins' width=40/> Jenkins</a>
-<p>:chart_with_upwards_trend: Plan to learn:<br />
+ <p>:chart_with_upwards_trend: Plan to learn:<br />
   <a href=https://docs.ansible.com/ansible/latest/index.html'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" title='Ansible' width=40/>Ansible,</a>
   <a href='https://www.python.org/doc/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title='Python' width=40/></a>, Data & AI
 </p>
