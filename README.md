@@ -1,4 +1,4 @@
-### Welcome, potential partner 👋
+### Hello world ! 👋
 <a href="https://www.linkedin.com/in/julien-nolleau-2710a493/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8??style=flat&logo=linkedIn)</a>
 
 - 🌱 Currently learning Computer Programming at 42 School Paris
